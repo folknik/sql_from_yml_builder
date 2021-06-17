@@ -7,7 +7,7 @@ python3 -m venv new_env
 ```
 2. Activate venv
 ```
-source /new_env/bin/activate
+source new_env/bin/activate
 ```
 3. Install requirements
 ```
