@@ -1,0 +1,4 @@
+name: sql_to_table1
+settings:
+  - table: table1
+  - columns: col1, col2, col3
